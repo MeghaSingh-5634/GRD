@@ -1,0 +1,113 @@
+{
+  "projects": [
+    {
+      "id": "proj-1793568871102",
+      "clientName": "Apollo Hospitals",
+      "category": "Healthcare Wayfinding",
+      "image": "/images/project-max-healthcare.jpg",
+      "location": "Super Specialty Wing",
+      "description": "High visibility illuminated LED signage and wayfinding."
+    },
+    {
+      "id": "grd-univ",
+      "clientName": "GRD University",
+      "category": "Institutional Signage",
+      "image": "/images/hero-grd-building.jpg",
+      "location": "Main University Campus",
+      "description": "Comprehensive institutional campus wayfinding, entrance monument signage, and illuminated 3D channel letters."
+    },
+    {
+      "id": "planet-fashion",
+      "clientName": "Planet Fashion",
+      "category": "Retail Branding",
+      "image": "/images/project-planet-fashion.jpg",
+      "location": "High Street Retail Flagship",
+      "description": "High-impact retail storefront illuminated LED 3D letters and commercial facade branding."
+    },
+    {
+      "id": "max-healthcare",
+      "clientName": "Max Healthcare",
+      "category": "Wayfinding Signage",
+      "image": "/images/project-max-healthcare.jpg",
+      "location": "Super-Specialty Hospital Complex",
+      "description": "Critical emergency route directional signage, department directories, and trauma pylon wayfinding."
+    },
+    {
+      "id": "deloitte",
+      "clientName": "Deloitte.",
+      "category": "Corporate Branding",
+      "image": "/images/project-deloitte.jpg",
+      "location": "Corporate Tech Park",
+      "description": "Architectural high-rise building top identification and illuminated corporate lobby branding."
+    }
+  ],
+  "heroSlides": [
+    {
+      "id": "grd-campus",
+      "image": "/images/hero-slide-clean.jpg",
+      "alt": "GRD University Campus Architectural Facade Signage",
+      "title": "GRD University",
+      "subtitle": "Institutional Campus Execution"
+    },
+    {
+      "id": "planet-fashion",
+      "image": "/images/project-planet-fashion.jpg",
+      "alt": "Planet Fashion Flagship Retail Facade Branding",
+      "title": "Planet Fashion",
+      "subtitle": "Retail Branding & 3D Letters"
+    },
+    {
+      "id": "deloitte-hq",
+      "image": "/images/project-deloitte.jpg",
+      "alt": "Deloitte Corporate Headquarters Facade Signage",
+      "title": "Deloitte Corporate",
+      "subtitle": "High-Rise Glass Elevation"
+    },
+    {
+      "id": "max-healthcare",
+      "image": "/images/project-max-healthcare.jpg",
+      "alt": "Max Healthcare Hospital Campus Wayfinding",
+      "title": "Max Healthcare",
+      "subtitle": "Hospital Wayfinding Signage"
+    },
+    {
+      "id": "hero-1793569065163",
+      "image": "/images/hero-slide-clean.jpg",
+      "alt": "Tets",
+      "title": "Tets",
+      "subtitle": "test"
+    }
+  ],
+  "clientLogos": [
+    {
+      "id": "grd",
+      "name": "GRD UNIVERSITY",
+      "category": "Education",
+      "logoType": "grd"
+    },
+    {
+      "id": "planet-fashion",
+      "name": "PLANET FASHION",
+      "category": "Fashion Retail",
+      "logoType": "planet-fashion"
+    },
+    {
+      "id": "decathlon",
+      "name": "DECATHLON",
+      "category": "Sports Retail",
+      "logoType": "decathlon"
+    },
+    {
+      "id": "tata-hitachi",
+      "name": "TATA HITACHI",
+      "category": "Heavy Industrial",
+      "logoType": "tata-hitachi"
+    },
+    {
+      "id": "reliance",
+      "name": "Reliance Industries Limited",
+      "category": "Conglomerate",
+      "logoType": "reliance"
+    }
+  ]
+}
